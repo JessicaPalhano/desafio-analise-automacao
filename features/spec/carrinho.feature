@@ -1,5 +1,5 @@
 
-Funcionalidade: Adicionar ao carrinho no Fake Ecommerce
+Funcionalidade: Adicionar produto ao carrinho no Fake Ecommerce
   Como um cliente do site Fake Ecommerce
   Gostaria de adicionar produto ao carrinho de compras
   Para checar o produto adicionado
