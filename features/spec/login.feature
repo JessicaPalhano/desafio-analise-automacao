@@ -20,6 +20,6 @@ Funcionalidade: Login no Ecommerce Fake
   E preencho os campos com os dados
   |email|ratinho@teste.com| 
   |senha|teste123|
-  Quando confirmo dados cadastraisgit
+  Quando confirmo dados cadastrais
   Então não consigo acessar minha conta
 
